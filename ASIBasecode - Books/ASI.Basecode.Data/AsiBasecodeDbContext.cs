@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using ASI.Basecode.Data.Models;
+using ZXing.QrCode.Internal;
 
 namespace ASI.Basecode.Data
 {
@@ -19,6 +20,7 @@ namespace ASI.Basecode.Data
 
         public virtual DbSet<User> Users { get; set; }
         public virtual DbSet<Book> Books { get; set; }
+        public virtual DbSet<Movie> Movies { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>(entity =>

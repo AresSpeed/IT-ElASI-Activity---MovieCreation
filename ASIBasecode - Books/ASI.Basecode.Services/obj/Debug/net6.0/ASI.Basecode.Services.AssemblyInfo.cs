@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASI.Basecode.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e346bbf4a2530ece6188025143c1de22a8842bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1c831a3f1fcb427902efc8a8874b81d9ea44141")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASI.Basecode.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASI.Basecode.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

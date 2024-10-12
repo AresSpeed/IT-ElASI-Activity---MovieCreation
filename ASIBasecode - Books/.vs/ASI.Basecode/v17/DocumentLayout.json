@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.webapp\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.webapp\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.webapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.data\\migrations\\20241012061850_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\migrations\\20241012061850_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|solutionrelative:asi.basecode.services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.data\\asibasecodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\asibasecodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.webapp\\startup.di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\startup.di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.services\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +35,16 @@
       "RelativeMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|solutionrelative:asi.basecode.services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.webapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.webapp\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|solutionrelative:asi.basecode.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19A1CD85-842A-4C7C-B29A-5928626D75A7}|ASI.Basecode.Data\\ASI.Basecode.Data.csproj|c:\\users\\loryn\\documents\\repository\\it-elasi-activity\\asibasecode - books\\asi.basecode.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,31 +67,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T06:24:07.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241012061850_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\Migrations\\20241012061850_Initial.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Data\\Migrations\\20241012061850_Initial.cs",
+              "ToolTip": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\Migrations\\20241012061850_Initial.cs",
+              "RelativeToolTip": "ASI.Basecode.Data\\Migrations\\20241012061850_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:18:50.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.DI.cs",
+              "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\Startup.DI.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Startup.DI.cs",
+              "ToolTip": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\Startup.DI.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Startup.DI.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:11:36.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsiBasecodeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\AsiBasecodeDbContext.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Data\\AsiBasecodeDbContext.cs",
+              "ToolTip": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\AsiBasecodeDbContext.cs",
+              "RelativeToolTip": "ASI.Basecode.Data\\AsiBasecodeDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:07:06.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "ASI.Basecode.Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:05:30.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\Views\\Book\\Create.cshtml",
               "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Views\\Book\\Create.cshtml",
               "ToolTip": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\Views\\Book\\Create.cshtml",
               "RelativeToolTip": "ASI.Basecode.WebApp\\Views\\Book\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-12T05:04:17.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\Views\\Book\\Index.cshtml",
               "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Views\\Book\\Index.cshtml",
               "ToolTip": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\Views\\Book\\Index.cshtml",
               "RelativeToolTip": "ASI.Basecode.WebApp\\Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-28T22:44:44.668Z"
+              "WhenOpened": "2024-09-28T22:44:44.668Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\Models\\Book.cs",
               "RelativeDocumentMoniker": "ASI.Basecode.Data\\Models\\Book.cs",
@@ -83,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Controllers\\BookController.cs",
@@ -95,19 +181,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\Interfaces\\IBookService.cs",
               "RelativeDocumentMoniker": "ASI.Basecode.Services\\Interfaces\\IBookService.cs",
               "ToolTip": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\Interfaces\\IBookService.cs",
               "RelativeToolTip": "ASI.Basecode.Services\\Interfaces\\IBookService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowA8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T20:25:02.782Z"
+              "WhenOpened": "2024-09-28T20:25:02.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "ASI.Basecode.Services\\Services\\BookService.cs",
@@ -115,11 +202,12 @@
               "RelativeToolTip": "ASI.Basecode.Services\\Services\\BookService.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T20:11:02.753Z"
+              "WhenOpened": "2024-09-28T20:11:02.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\Interfaces\\IBookRepository.cs",
               "RelativeDocumentMoniker": "ASI.Basecode.Data\\Interfaces\\IBookRepository.cs",
@@ -131,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Loryn\\Documents\\repository\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "ASI.Basecode.Data\\Repositories\\BookRepository.cs",

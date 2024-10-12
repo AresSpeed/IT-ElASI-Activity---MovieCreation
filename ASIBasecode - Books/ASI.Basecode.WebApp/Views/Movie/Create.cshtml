@@ -1,0 +1,44 @@
+﻿@model MovieViewModel
+<div class="container pt-5">
+    <h1>Add A Movie</h1>
+
+    <form method="post" asp-action="Create">
+        <div class="form-group">
+            <label>Title</label>
+            <input type="text" class="form-control" asp-for="Title" placeholder="Title....">
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Director</label>
+            <input type="text" class="form-control" asp-for="Director" placeholder="Director's name....">
+            <span asp-validation-for="Director" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Description</label>
+            <textarea class="form-control" rows="3" asp-for="Description" placeholder="Description...."></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Release Date</label>
+            <input type="date" class="form-control" asp-for="ReleaseDate">
+            <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label>Image URL</label>
+            <input type="text" class="form-control" asp-for="ImageUrl" placeholder="Image URL....">
+            <span asp-validation-for="ImageUrl" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
