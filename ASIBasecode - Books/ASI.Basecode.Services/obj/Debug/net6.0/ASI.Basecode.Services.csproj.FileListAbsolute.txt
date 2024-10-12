@@ -83,3 +83,21 @@ C:\Users\pt507\ASIBasecode\ASI.Basecode.Services\obj\Debug\net6.0\refint\ASI.Bas
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.pdb
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Services\obj\Debug\net6.0\ref\ASI.Basecode.Services.dll
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.csproj.CopyComplete
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Services.deps.json
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Services.dll
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Services.pdb
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Data.dll
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Resources.dll
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Data.pdb
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Resources.pdb
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.csproj.AssemblyReference.cache
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.AssemblyInfoInputs.cache
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.AssemblyInfo.cs
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.csproj.CoreCompileInputs.cache
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.sourcelink.json
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Base.22E0E64E.Up2Date
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.dll
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\refint\ASI.Basecode.Services.dll
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.pdb
+C:\Users\Loryn\Documents\repository\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ref\ASI.Basecode.Services.dll
